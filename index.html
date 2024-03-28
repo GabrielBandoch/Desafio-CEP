@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de CEP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="titulo">
+            <h1>Buscar pelo CEP</h1>
+        </div>
+
+        <div class="formulario">
+            <label for="cep">CEP</label>
+            <input type="text" id="cep" placeholder="00000-000">
+        </div>
+
+        <div class="resultado">
+            <table id="endereco-table">
+                <thead>
+                    <tr>
+                        <th>Cidade <span id="cidade-order" class="order"></span></th>
+                        <th>Bairro <span id="bairro-order" class="order"></span></th>
+                        <th>Estado <span id="estado-order" class="order"></span></th>
+                        <th>Rua</th>
+                    </tr>
+                </thead>
+                <tbody id="endereco-body"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="API/api.js"></script>
+</body>
+</html>
