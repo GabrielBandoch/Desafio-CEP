@@ -36,6 +36,4 @@ Sinta-se à vontade para explorar o código e fornecer feedback!
 
 ---
 
-**Autor:** Seu Nome
-
-**Contato:** Seu E-mail
+**Autor:** Gabriel Felipe Alves Bandoch
