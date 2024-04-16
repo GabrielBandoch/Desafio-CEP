@@ -16,8 +16,8 @@ A solução foi construída utilizando JavaScript para a lógica de programaçã
 
 ## Acesso à Solução
 
-- [Visualize a solução aqui](https://gabrielbandoch.github.io/Vaga_Estagio_Desenvolvedor_de_Software/)
-- [Repositório no GitHub](https://github.com/GabrielBandoch/Vaga_Estagio_Desenvolvedor_de_Software)
+- [Visualize a solução aqui](https://gabrielbandoch.github.io/Desafio-CEP/)
+- [Repositório no GitHub](https://github.com/GabrielBandoch/Desafio-CEP)
 
 Fique à vontade para explorar o código e compartilhar qualquer feedback ou sugestão!
 
