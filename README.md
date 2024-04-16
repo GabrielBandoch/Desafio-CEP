@@ -1,38 +1,25 @@
-# Vaga de Estágio - Desenvolvedor de Software
+# Projeto de Desenvolvimento de Software
 
-Este repositório contém a solução para o desafio proposto durante o processo seletivo para a vaga de Estágio em Desenvolvimento de Software. O desafio incluiu uma série de problemas de programação e o desenvolvimento de um sistema web para consulta de endereços através do CEP.
+Este repositório contém a solução para um desafio de desenvolvimento que enfrentei recentemente. O desafio envolveu uma variedade de problemas de programação e o desenvolvimento de um sistema web para consulta de endereços através do CEP.
 
 ## Desafio
 
-O desafio consistiu em resolver as seguintes tarefas de programação:
+O desafio incluiu resolver uma série de problemas de programação, como encontrar números não repetidos, verificação de palíndromos, ordenação de números pares e ímpares, cálculo do fatorial e sequência de Fibonacci. Além disso, foi necessário criar um Sistema Web de Consulta de Endereços.
 
-1. Encontrar número não repetido
-2. Verificação de Palíndromo
-3. Ordenação de Números Pares e Ímpares
-4. Cálculo do Fatorial
-5. Fibonacci
+## Aprendizados
 
-Além disso, foi necessário desenvolver um Sistema Web de Consulta de Endereços, que atendesse aos seguintes requisitos:
-
-- Implementar uma funcionalidade de consulta de endereço via CEP utilizando a API disponibilizada em [ViaCEP](https://viacep.com.br/).
-- Permitir que os usuários armazenem os registros de endereços consultados.
-- Exibir os registros de endereços armazenados em uma interface web.
-- Implementar opções de ordenação para os registros, incluindo ordenação crescente e decrescente para os campos de cidade, bairro e estado.
+Ao enfrentar esse desafio, aprendi a aplicar conceitos de programação em situações reais, além de aprimorar minhas habilidades em JavaScript, HTML e CSS. Também ganhei experiência na integração de APIs externas, como a ViaCEP, e na implementação de funcionalidades de armazenamento e exibição de dados em uma interface web.
 
 ## Solução
 
-A solução foi desenvolvida utilizando as seguintes tecnologias:
-
-- JavaScript
-- HTML
-- CSS
+A solução foi construída utilizando JavaScript para a lógica de programação, HTML para a estrutura da página e CSS para o estilo visual. 
 
 ## Acesso à Solução
 
 - [Visualize a solução aqui](https://gabrielbandoch.github.io/Vaga_Estagio_Desenvolvedor_de_Software/)
 - [Repositório no GitHub](https://github.com/GabrielBandoch/Vaga_Estagio_Desenvolvedor_de_Software)
 
-Sinta-se à vontade para explorar o código e fornecer feedback!
+Fique à vontade para explorar o código e compartilhar qualquer feedback ou sugestão!
 
 ---
 
